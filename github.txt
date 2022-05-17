@@ -3,7 +3,4 @@ x = 1
 y = 2
 z = x + y
 print(z)
-
-for x in a:
-this is cool
-
+git
